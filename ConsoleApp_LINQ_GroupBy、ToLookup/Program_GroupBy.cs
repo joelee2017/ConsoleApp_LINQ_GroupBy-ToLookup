@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace ConsoleApp_LINQ_GroupBy_ToLookup
 {
-    class Program
+    class Program_GroupBy
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             List<int> sequences = new List<int>() { 1, 2, 4, 3, 2, 4, 6, 4, 5, 2, 2, 6, 3, 5, 7, 5 };
 
